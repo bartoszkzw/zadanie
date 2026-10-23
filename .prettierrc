@@ -1,0 +1,5 @@
+{
+ "semi": false, // brak średników
+ "singleQuote": true, //pojedyncze cudzysłowy
+ "tabWidth": 2 //tabulacja 2 spacje
+}
